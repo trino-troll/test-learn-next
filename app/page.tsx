@@ -1,6 +1,6 @@
 import AcmeLogo from '@/app/ui/acme-logo';
 import Link from 'next/link';
-import { lusitana } from './ui/invoices/fonts';
+import { lusitana } from '@/app/ui/fonts';
 import Image from 'next/image';
 
 export default function Page() {
